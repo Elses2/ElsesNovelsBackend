@@ -2,6 +2,7 @@
 import express from "express";
 import cors from "cors";
 import obraRoutes from "./routes/obraRoutes.js";
+import imageRoutes from "./routes/image.routes.js";
 
 const app = express();
 

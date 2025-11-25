@@ -1,6 +1,6 @@
 // routes/obraRoutes.js
 import express from "express";
-import { getObras, crearObra } from "../controllers/obraController.js";
+import { getObras, crearObra } from "../controllers/Obras/obraController.js";
 
 const router = express.Router();
 
